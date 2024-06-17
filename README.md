@@ -28,8 +28,6 @@
 
 <br> 
 
-# " My Chart in Github "
-
 
 
 ## Most Used Languages:
