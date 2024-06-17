@@ -2,6 +2,7 @@
 <h1 align="center">Hi 👋, I'm John Vel</h1>
 <h3 align="center">Aspiring web and mobile developer, and a computer science student at EAC</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="left" alt="Chibi" width="200" src="https://github.com/JohnVel27/Fragment-Android-Studio/assets/124770839/ddb52bf3-c2ce-4705-8e34-dde85f137ef2">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnvel27&label=Profile%20views&color=0e75b6&style=flat" alt="johnvel27" /> </p>
 
