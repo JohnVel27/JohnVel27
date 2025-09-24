@@ -1,7 +1,7 @@
-<img src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif" 
+<img src="https://media1.giphy.com/media/v1.Y2lkPTZjMDliOTUyeWJmbHdvZWsydDdtZjhtZzVldHI2cnBzM2hubXY4ZDBiY3M4djU3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZVik7pBtu9dNS/source.gif" 
      alt="MasterHead" 
      width="1000" 
-     height="500">
+     height="300">
 <h1 align="center">Hi 👋, I'm John Vel</h1>
 <h3 align="center">Aspiring web and mobile developer</h3>
 <img align="right" alt="Chibi" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
