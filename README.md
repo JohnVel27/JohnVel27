@@ -1,4 +1,4 @@
-![MasterHead](https://cdn.dribbble.com/userupload/40925510/file/original-e794f7e56fabef47421fe98b230e8c8f.gif)
+![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyajU2bGg0dWVsbDd3bG83MmZxZ2hjbm43aXZmaHVnZmo2NzdlaWVjcCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/200w.gif)
 <h1 align="center">Hi 👋, I'm John Vel</h1>
 <h3 align="center">Aspiring web and mobile developer</h3>
 <img align="right" alt="Chibi" width="350" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
